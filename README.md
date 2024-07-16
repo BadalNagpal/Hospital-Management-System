@@ -1,5 +1,6 @@
 # Hospital-Management-System
 A Management System offering various Hospital Procedures
+
 To install the required dependencies use: `npm install` in each folder: frontend and backend.
 
 To run the frontend of this project through npm use: `npm start`.
